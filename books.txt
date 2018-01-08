@@ -1,0 +1,19 @@
+1-84356-028-3,Think Python,Allen B. Downey, Shroff,Education,445,0.0,5,1
+1-84356-028-9,Computer Science with C++,Sumita Arora,Dhanpat Rai & Co.,Education,475,0.0,23,2
+1-84356-028-0,And Then There Were None,Agatha Christie,Harper,Mystery,250,0.0,40,3
+1-84356-028-1,7 Habits Of Highly Successful People,R. Stephen Cowey,Simon & Schuster,Self Help,150,5.0,40,4
+1-84356-028-6,The Fault in Our Stars,John Green,Penguin,Romance,250,0.0,40,5
+1-84356-028-2,The Digital Fortress,Dan Brown,Harper,Thriller,380,0.0,23,6
+1-84356-048-2,Silas Marner,George Eliot,Spark Notes,Drama,120,0.0,20,7
+1-84356-128-2,Harry Potter and The Philoshoper's Stone,J K Rowling,Bloomsbery,Fiction,520,0.0,27,8
+1-94356-028-2,Dracula,Bram Stoker,Harper,Horror,235,0.0,20,9
+1-84756-028-2,The Animorphs-#3,K.A.Applegate,Scholastic,Fantasy,210,0.0,20,10
+1-34356-028-1,The Lord of the Rings Triology,J R R Tolkein,Goodreads,Fantasy,1340,0.0,52,11
+1-82376-028-2,Fundamentals of Physics,Halidey Resnick Walker,Wiley,Education,3450,0.0,7,12
+1-64356-118-2,Immortals of Meluha,Amish Tripathi,Wilson,Fiction,346,0.0,25,13
+1-04956-028-2,Revolution 20-20,Chetan Bhagath,Rupa,Fiction,230,0.0,45,14
+1-24756-928-0,Percy jackson Series,Rick Riordan,Penguin,Fantasy,679,0.0,17,15
+8-04456-721-2,Angels and Demons,Dan Brown,Harper,Fiction,340,0.0,23,16
+9-64726-321-3,The Monk who sold his Ferrari,Robin Sharma,Harper Collins,Motivational,560,0.0,45,17
+8-04456-721-1,The Count of Monte Christo,Alexander Dumas,Harper,Thriller,130,0.0,30,18
+9-64726-321-2,An Introduction to Algorithms,Thomas H Cummen,MIT press,Education,980,0.0,13,19
